@@ -1,2 +1,2 @@
-# lite-flow
+# LiteFlow
 Simple video delivery system
